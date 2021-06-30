@@ -11,7 +11,6 @@ Install dependencies with: `npm install` and start project with `npm start` comm
 ### Configuration
 * Config project: `/src/config.ts` with template  `/src/iron-bank/config.ts`
 * Config farm info: `/src/farms.ts`
-* Config vault template: `/src/vaultTemplate.ts`
 
 ### Links
 * [Documentations](https://docs.iron.finance/)
